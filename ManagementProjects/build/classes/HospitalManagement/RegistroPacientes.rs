@@ -1,0 +1,1 @@
+GestionHospital.RegistroPacientes

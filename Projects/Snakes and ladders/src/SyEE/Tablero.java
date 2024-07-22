@@ -2,8 +2,6 @@ package SyEE;
 
 import ListaDoble.ListaJugadores;
 import ListaDoble.Nodo;
-import SyE.Jugador;
-import SyE.ListaSerpientesEscaleras;
 import java.util.Random;
 import javax.swing.JOptionPane;
 

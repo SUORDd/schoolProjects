@@ -1,4 +1,4 @@
-package SyE;
+package SyEE;
 
 public class Jugador {
 

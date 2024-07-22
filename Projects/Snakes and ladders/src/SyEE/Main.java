@@ -17,7 +17,7 @@ public class Main {
             tabler.agregarSerpiente(13, 1);
             tabler.agregarEscalera(12,87);
             tabler.agregarEscalera(14,30);
-            tabler.agregarEscalera(12,40);
+            tabler.agregarEscalera(9,40);
             tabler.agregarSerpiente(40, 12);
             tabler.agregarJugadores();
 
